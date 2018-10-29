@@ -1,0 +1,5 @@
+Harvey|apple|30|900.0|
+ambrin|apple|3|90.0|
+ambrin|apple|10|300.0|
+Customer|Orange|5|4.5|
+Customer|Orange|3|2.7|

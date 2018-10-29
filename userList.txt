@@ -1,0 +1,2 @@
+admin|Pass1234|0412345678|admin@mfvs.com|MFVS|MFVS|
+Customer|Pass1234|0412345678|cust@monash.com|Which Uni?|Monash|

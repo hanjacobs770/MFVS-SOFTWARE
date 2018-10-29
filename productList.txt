@@ -1,0 +1,16 @@
+Apple|A Juicy sweet fruit|fruit|30|1.0|3|12
+Lemon|A sour fruit|fruit|2|1.0|4|4
+Mango|A delicous fruit from India|Fruit|2|0.9|3|3Lychee|A tropical delight|Fruit|1|0.95|6|6|
+Orange|A sweet citrus|fruit|1|0.9|1|5
+Potato|An earthy vegatable|vegetable|2|1.0|7|7|
+Carrot|An orange root vegatable|vegatable|2|0.9|20|20|
+Zuccini|Good for stir-fry|Vegetable|5|0.8|70|30|
+Beans|They grow on stalks|Vegetable|5|0.9|30|49|
+Tomato|A red juicy vegetable|Vegetable|2|0.9|30|30|
+Pear|Grows on trees|Fruit|4|0.9|40|40|
+StarFruit|Yellow and tangy|fruit|7|0.7|40|40|
+Papaya|Good for breakfast|fruit|40|0.8|40|1|
+Pineapple|Sour and sweet|fruit|3|0.9|40|1|
+Avocado|A delicious fruit|fruit|3|0.9|40|1|
+Pumpkin|Orange and yummy|vegetable|3|1.0|30|1|
+SweetPotatoe|Orange and yummy as Well!|vegetable|3|1.0|30|1|
